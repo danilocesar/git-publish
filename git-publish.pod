@@ -1,5 +1,7 @@
 =encoding utf8
 
+hi
+
 =head1 NAME
 
 git-publish - Prepare and store patch revisions as git tags
